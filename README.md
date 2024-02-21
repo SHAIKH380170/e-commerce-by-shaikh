@@ -6,9 +6,6 @@ CSS3 HTML5 JavaScript TypeScript Netlify Heroku Vercel Ant-Design Bootstrap Chak
 
 📊 GitHub Stats:
  
-patelshoaib7
-
-patelshoaib7
 
 
 ✍️ Random Dev Quote
